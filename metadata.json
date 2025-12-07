@@ -1,0 +1,5 @@
+{
+  "name": "Web Design 101 Builder",
+  "description": "A web application to teach web design vocabulary, show examples of good vs. bad design, and generate custom subject-based websites using Gemini.",
+  "requestFramePermissions": []
+}
